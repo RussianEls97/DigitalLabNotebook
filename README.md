@@ -7,6 +7,8 @@ This is a repo from DLN workshop
 
 ### Third Header
 
+####### 6th Header
+
 Type lots of - (minus) to add a horizontal line 
 Anothwer way is to type a lot of _ (underscore) e.g.: 
 ________
