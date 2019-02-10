@@ -7,4 +7,5 @@ This folder contains these files:
 [Link to Dummy_File](Dummy_File)
 
 Link to the [front page](../README.md)
+
 The two dots link you back to the last directory 
