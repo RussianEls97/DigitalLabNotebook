@@ -4,3 +4,4 @@ To create folder, create a new file and then follow it by forward slash and will
 
 This folder contains these files: 
 
+[Link to Dummy_File](Dummy_File)
