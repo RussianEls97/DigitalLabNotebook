@@ -50,3 +50,16 @@ To create a numbered list:
 1. item 3
 
 you do not have to write out 1, 2, 3 etc just use 1 and it will automatically fo it for you :3 easy-peasy!
+
+# link some of the files here
+
+the sintax of the link is: 
+
+[Tables.md](Tables.md) , if you want to change the link name just change the name in the square bracket *make sure you have lines between links*
+
+e.g.: 
+just 
+as
+an 
+example 
+
